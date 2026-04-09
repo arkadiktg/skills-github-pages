@@ -1,3 +1,3 @@
 ---
-MOstly crypto and Polymarket bots!
+Mostly crypto and Polymarket bots!
 ---
